@@ -1,0 +1,125 @@
+.content {
+	background-color: pink;
+	width: 100%;
+	height: 500px;
+}
+
+.left, .right {
+	float: left;
+	width: 50%;
+	height: 500px;
+}
+
+.left {
+	/*background-color: #BBB;*/
+}
+
+.left_content {
+	/*background-color: #444;*/
+	width: 80%;
+	height: 100%;
+	float: right;
+}
+
+.left_info {
+	font-size: 22px;
+	color: #000;
+	margin-top: 20px;
+	margin-left: 110px;
+}
+
+tr, td {
+	padding: 2px;
+}
+
+.sectors {
+	margin-left: 20px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+.left_top {
+	background-color: #FF0000;
+	border-top-left-radius: 100%;
+	background-image: url("https://i.kapital.kz/c/a6dfd4e82662b42280958fc6409c25f5/n/190/120/1/a/3/9/b/8792e1894ecb2885323a56620b0.jpg");
+}
+
+.left_top p {
+	padding-top: 30px;
+	padding-left: 40px;
+}
+.right_top {
+	
+	background-image: url("http://shopomania.kz/uploads/posts/2016-09/1472744106_universitet-kembridzh-angliya.jpg");	
+	border-top-right-radius: 100%;
+	
+}
+
+.right_top p {
+	padding-top: 30px;
+	padding-right: 40px;
+}
+
+.left_bot {
+	background-color: #32FFFF;
+	border-bottom-left-radius: 100%;
+	background-image: url("https://www.homekeysrealtygroup.com/s/cc_images/cache_4216885938.jpg?t=1456359858");
+}
+
+.left_bot p {
+	padding-bottom: 40px;
+	padding-left: 40px;
+}
+
+.right_bot {
+	background-color: #FFF123;
+	border-bottom-right-radius: 100%;
+	background-image: url("http://www.chokerr.ru/nxanbuyodu/773119703.jpg");
+	opacity: 0.8;
+}
+
+.right_bot p {
+	padding-bottom: 40px;
+	padding-right: 60px;
+}
+
+.sector {
+	width: 195px;
+	height: 195px; 
+	padding: auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 200px; 
+}
+
+.sector p {
+	font-size: 25px;
+	color: #000;
+	
+}
+
+.sector:hover {
+	opacity: 0.6;
+}
+.right {
+	/*background-color: #CCC;*/
+	font-size: 16px;
+	color: #000;
+}
+
+.right_content {
+	/*background-color: #DDD;*/
+	width: 70%;
+	height: 100%;
+	float: left;
+}
+
+.right_info {
+	margin-top: 20px;
+	margin-left: 50px;
+}
+
+.right p {
+	margin-top: 20px;
+	margin-left: 50px;
+}
