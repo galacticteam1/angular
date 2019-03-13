@@ -1,0 +1,87 @@
+.secondary_head {
+	background-color: #111;
+	width: 100%;
+	height: 50px;
+	position: relative;
+}
+
+.categories {
+	/*background-color: #311;*/
+	width: 80%;
+	height: 100%;
+	float: left;
+}
+
+.categories ol {
+	list-style: none;
+	margin-left: 25px;
+}
+
+.categories li {
+	display: inline-block;
+	max-width: 80px;
+	height: 100%;
+	padding: 12px 10px 0px 10px;
+	font-size: 14px;
+}
+
+.categories a {
+	color: #EEE;
+}
+
+.categories a:hover {
+	color: #444;
+}
+
+.search {
+	/*background-color: #131;*/
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+
+.search_form {
+	/*background-color: #141;*/
+	position: relative;
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+}
+
+.search_bar, .search_btn {
+	float: left;
+}
+
+.search_bar {
+	width: 70%;
+	height: 20px;
+	padding-top: 7px;
+	margin-top: 5px;
+}
+
+.search_bar input {
+	width: 90%;
+	height: 20px;
+}
+
+.search_btn {
+	width: 20%;
+	padding-top: 10px;
+	width: 30%;
+	padding-top: 8px;
+	margin-top: 5px;
+}
+
+.search_btn input {
+	width: 70%;
+	height: 23px;
+}
+
+.search_btn :hover{
+    background-color: pink;
+}
+
+
+.search_part {
+	width: 85%;
+}
