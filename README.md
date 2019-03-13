@@ -1,27 +1,15 @@
-# Angular
+## KBTU Web Development Class. Spring 2019
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+### GALACTIC Team Project work
 
-## Development server
+### Team Members
+| Name | GitHub account | Email |
+| --- | --- | --- |
+| Adilet Absatov | [adiletabs](https://github.com/adiletabs/) | adl.absatov@gmail.com |
+| Azamat Yergali | [mebr0](https://github.com/mebr0) | aza17e@gmail.com |
+| Dariya Baibolatova | [baibolatovads](https://github.com/baibolatovads) | baibolatovads@gmail.com |
+| Shynar Ayanbek | [shynaraaya](https://github.com/shynaraaya) | ayanbekshynar@gmail.com |
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Project description
+Ever wished of an original hoodie from Oxford Unviersity? Or a backpack straightly from Silicon Valley Google? 
+**UNIverse** gathered hoodies, backpacks, T-shirts, cups, notebooks and many other staff that would give you a chance to feel yourself a part of any university's or corporation's community. Break the barriers between wishes and reality! Visit our website!
